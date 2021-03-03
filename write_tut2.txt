@@ -1,0 +1,3 @@
+This is python write to file tutorial.
+We will learn i
+Inserting new line to text.t!
